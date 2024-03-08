@@ -1,3 +1,5 @@
+En este hacemos otros cambios a ver que quiere hacer el git con ellos
+
 Ahora estoy insertando cambios en la segunda rama para comprobar 
 como funciona lo de fusionar ramas 
 
