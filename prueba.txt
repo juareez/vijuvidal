@@ -1,3 +1,6 @@
+Ahora nuevos cambios pero cambiamos a la vez en las otras ramas en 
+paraleo 
+
 Ahora estoy insertando cambios en la segunda rama para comprobar 
 como funciona lo de fusionar ramas 
 
