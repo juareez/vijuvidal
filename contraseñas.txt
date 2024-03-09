@@ -1,0 +1,15 @@
+Para entrar en el servidor usamos:
+- ssh bandit11@bandit.labs.overthewire.org -p 2220
+
+
+Solución nivel 10:
+- la orden base64 sirve para codificar y decodificar información
+ en base64 que es un sistema de codificación de información
+ Usando base64 archivo.txt obtenemos el contenido de dicho
+ archivo codificado.
+ Usando la orden con el argumento -d archivoCodificado.txt
+ podemos obtener la información en texto legible.
+
+Contraseña para pasar al nivel 11:
+- 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
