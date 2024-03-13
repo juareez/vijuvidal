@@ -13,3 +13,14 @@ Solución nivel 10:
 Contraseña para pasar al nivel 11:
 - 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
+Solución nivel 11:
+- la orden tr traduce codifica y decodifica texto segun un criterio que
+ se le pasa como argumento.
+ Usando cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m' podemos traducir 
+ texto usando ROT13 que básicamente rota las letras del abecedario
+ en trece posiciones, de manera que la A pasa a ser la N, la B ahora es
+ la O...
+
+Contraseña para pasar al nivel 12:
+- JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
